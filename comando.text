@@ -1,0 +1,14 @@
+dotnet new console -n Aluno
+
+cd ..   para voltar uma casa no endenreço
+
+dotnetrun
+
+
+echo "# Aed-PucS-oGabriel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/franciscohenriquede/Aed-PucS-oGabriel.git
+git push -u origin main

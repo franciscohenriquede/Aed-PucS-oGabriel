@@ -1,0 +1,14 @@
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.exe
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.deps.json
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.runtimeconfig.json
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.dll
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\bin\Debug\net8.0\ContaBancaria.pdb
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.dll
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\refint\ContaBancaria.dll
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.pdb
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\1067384\Desktop\Aed-Fran\ContaBancaria\ContaBancaria\obj\Debug\net8.0\ref\ContaBancaria.dll

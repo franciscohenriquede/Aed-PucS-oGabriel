@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\Livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\Livro.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\Livro.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\Livro.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\bin\Debug\net9.0\Livro.exe
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\bin\Debug\net9.0\Livro.deps.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\bin\Debug\net9.0\Livro.runtimeconfig.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\bin\Debug\net9.0\Livro.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\bin\Debug\net9.0\Livro.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\Livro.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\refint\Livro.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\Livro.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\Livro.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Livro\obj\Debug\net9.0\ref\Livro.dll

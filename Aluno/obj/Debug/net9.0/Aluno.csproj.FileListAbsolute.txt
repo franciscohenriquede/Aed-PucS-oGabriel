@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\Aluno.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\Aluno.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\bin\Debug\net9.0\Aluno.exe
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\bin\Debug\net9.0\Aluno.deps.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\bin\Debug\net9.0\Aluno.runtimeconfig.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\bin\Debug\net9.0\Aluno.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\bin\Debug\net9.0\Aluno.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\Aluno.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\refint\Aluno.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\Aluno.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\Aluno.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Aluno\obj\Debug\net9.0\ref\Aluno.dll
