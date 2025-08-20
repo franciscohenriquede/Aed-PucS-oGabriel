@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.sourcelink.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\bin\Debug\net9.0\Trianqulo.exe
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\bin\Debug\net9.0\Trianqulo.deps.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\bin\Debug\net9.0\Trianqulo.runtimeconfig.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\bin\Debug\net9.0\Trianqulo.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\bin\Debug\net9.0\Trianqulo.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\refint\Trianqulo.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\Trianqulo.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Trianqulo\obj\Debug\net9.0\ref\Trianqulo.dll

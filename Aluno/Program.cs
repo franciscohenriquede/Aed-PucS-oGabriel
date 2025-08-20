@@ -7,6 +7,7 @@ class Program
         Aluno alunoUm = new Aluno("caior", 4454, 10, 5, 6);
         alunoUm.MostrarNotas();
         alunoUm.MostrarMedianota();
+        
       
 
     }

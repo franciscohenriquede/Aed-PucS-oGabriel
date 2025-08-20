@@ -1,0 +1,39 @@
+🌐 Namespace principais do .NET
+
+System → Tipos básicos: String, Int32, Console, DateTime, Math, etc.
+
+System.Collections → Estruturas de dados não genéricas (ex: ArrayList, Hashtable).
+
+System.Collections.Generic → Estruturas genéricas modernas (ex: List<T>, Dictionary<K,V>).
+
+System.Linq → Consultas LINQ (Where, Select, OrderBy).
+
+System.IO → Manipulação de arquivos e diretórios (File, StreamReader, Directory).
+
+System.Text → Manipulação de texto e codificações (StringBuilder, Encoding).
+
+System.Text.RegularExpressions → Expressões regulares (Regex).
+
+System.Threading → Threads e sincronização.
+
+System.Threading.Tasks → Programação assíncrona (Task, async/await).
+
+System.Net → Redes e protocolos (HttpWebRequest, IPAddress).
+
+System.Net.Http → Cliente HTTP moderno (HttpClient).
+
+System.Data → Acesso a bancos de dados (DataSet, DataTable).
+
+System.Diagnostics → Diagnóstico e logs (Debug, Stopwatch, Process).
+
+System.Globalization → Cultura, formatação de números, datas, moedas.
+
+System.Security → Classes para segurança e criptografia.
+
+System.Drawing → Manipulação de imagens (nas versões .NET Framework).
+
+System.Windows.Forms → Interfaces gráficas no Windows (WinForms).
+
+System.Xml → Manipulação de XML.
+
+System.Json (ou via System.Text.Json no .NET 5+) → Manipulação de JSON

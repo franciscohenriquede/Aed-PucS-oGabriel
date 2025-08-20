@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.sourcelink.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\bin\Debug\net9.0\Funcionarios.exe
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\bin\Debug\net9.0\Funcionarios.deps.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\bin\Debug\net9.0\Funcionarios.runtimeconfig.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\bin\Debug\net9.0\Funcionarios.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\bin\Debug\net9.0\Funcionarios.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\refint\Funcionarios.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\Funcionarios.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Funcionarios\obj\Debug\net9.0\ref\Funcionarios.dll

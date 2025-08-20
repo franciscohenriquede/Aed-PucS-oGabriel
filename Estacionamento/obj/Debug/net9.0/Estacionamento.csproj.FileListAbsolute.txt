@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.sourcelink.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\bin\Debug\net9.0\Estacionamento.exe
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\bin\Debug\net9.0\Estacionamento.deps.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\bin\Debug\net9.0\Estacionamento.runtimeconfig.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\bin\Debug\net9.0\Estacionamento.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\bin\Debug\net9.0\Estacionamento.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\refint\Estacionamento.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\Estacionamento.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Estacionamento\obj\Debug\net9.0\ref\Estacionamento.dll

@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.sourcelink.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\bin\Debug\net9.0\Jogador.exe
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\bin\Debug\net9.0\Jogador.deps.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\bin\Debug\net9.0\Jogador.runtimeconfig.json
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\bin\Debug\net9.0\Jogador.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\bin\Debug\net9.0\Jogador.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\refint\Jogador.dll
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\Jogador.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Área de Trabalho\Aed-Fran\Jogador\obj\Debug\net9.0\ref\Jogador.dll

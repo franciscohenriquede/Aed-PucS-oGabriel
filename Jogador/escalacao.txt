@@ -1,0 +1,19 @@
+Time: lacoste
+=============================
+Titulares:
+Número: 13, Nome: Victor, Posição: Zagueiro
+Número: 2, Nome: Baía, Posição: Zagueiro
+Número: 3, Nome: Rafael, Posição: Zagueiro
+Número: 4, Nome: Marcelo, Posição: Lateral
+Número: 6, Nome: Gabriel, Posição: Meia
+Número: 7, Nome: Bruno, Posição: Meia
+Número: 8, Nome: Thiago, Posição: Meia
+Número: 9, Nome: Pedro, Posição: Atacante
+Número: 10, Nome: Fernando, Posição: Atacante
+Número: 16, Nome: Caio, Posição: Atacante
+
+Reservas:
+Número: 1, Nome: Carlos, Posição: Goleiro
+Número: 14, Nome: Leonardo, Posição: Lateral
+Número: 15, Nome: Mateus, Posição: Meia
+Número: 11, Nome: Ronaldo, Posição: Atacante
